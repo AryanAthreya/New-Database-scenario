@@ -1,0 +1,38 @@
+team-Beta
+
+[1]
+You are an experienced HR manager and leadership coach. 
+Write constructive performance feedback for an employee who consistently produces high-quality work and demonstrates strong skills, 
+but frequently misses deadlines. The feedback should:
+1. Start by acknowledging the employee’s strengths and the quality of their work.
+2. Clearly explain the concern about missed deadlines.
+3. Emphasize how timely delivery affects team productivity and project success.
+4. Provide supportive and actionable suggestions to improve time management and deadline adherence.
+5. Maintain a professional, respectful, and motivating tone.
+The feedback should be about 120–150 words and structured as a short paragraph suitable for a performance review.
+
+
+
+[2]
+create a minimalistic 3d transparent cube with its edges glowing purple and black background
+
+
+
+[3]
+create an 2d mathematical triangle figure with 8cm height , 12 cm base in purple outlines and purple background and on side calculation of its area
+
+
+
+[4]
+Create a clean geometrical diagram of a circle. The circle has a radius of *5 cm. Show a radius line from the center to the boundary and label it **r = 5 cm*.
+Also display the area calculation of the circle using *π = 3.14*:
+Area = πr² = 3.14 × 5² = *78.5 cm²*.
+Design requirements:
+* Background: smooth gradient mixture of *dark purple and black*.
+* Circle outline: *bright purple*.
+* Inside the circle: *slightly darker purple fill* so it is clearly distinguishable from the background.
+* Show the *center point* with a small dot.
+* Draw the *radius line* clearly from center to the circle boundary.
+* Place the *area calculation text below the circle* in clear readable font.
+* Style should look like a *clean mathematical educational diagram*, minimalistic and neat.
+* High resolution, centered composition.
